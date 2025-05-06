@@ -6,7 +6,7 @@ def main():
     destination_blob_name = 'output/archivo.txt'
     
     # Contenido a escribir
-    content = 'estoy vivo!'
+    content = 'prueba presentacion'
     
     # Inicializa el cliente de Google Cloud Storage
     storage_client = storage.Client()
